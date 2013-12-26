@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="hibernate_many2many"
+  id="myeclipse.1307237575457"
+  context-root="/hibernate_many2many"
+  j2ee-spec="5.0"
+  archive="hibernate_many2many.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

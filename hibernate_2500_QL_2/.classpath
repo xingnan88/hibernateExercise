@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate"/>
+	<classpathentry kind="lib" path="D:/常用软件/数据库/mysql/mysql-connector-java-5.1.12-bin.jar"/>
+	<classpathentry kind="lib" path="D:/我的文档/java/junit/junit-4.9b2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

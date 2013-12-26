@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate"/>
+	<classpathentry kind="lib" path="D:/常用软件/数据库/mysql/mysql-connector-java-5.1.12-bin.jar"/>
+	<classpathentry kind="lib" path="D:/我的文档/java/junit/junit-4.9b2.jar"/>
+	<classpathentry kind="lib" path="D:/常用软件/数据库/sql server 2005/驱动jar包/sqljdbc_3.0.1301.101_enu/enu/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
